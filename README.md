@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arij33tt&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=06Abhishek&style=for-the-badge&color=blue" />
   <a href="https://github.com/06Abhishek?tab=followers">
     <img src="https://img.shields.io/github/followers/06Abhishek?tab=followers?label=blue&logo=github&style=for-the-badge"        alt="GitHub badge" />
   </a>
